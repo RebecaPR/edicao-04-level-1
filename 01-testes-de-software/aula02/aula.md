@@ -19,7 +19,6 @@ Não há resposta certa ou errada. 😉
 
 _**Após** fazer o exercício, dá uma conferida no [nosso exemplo](resolucao.md) de resposta._ 
 
-...
 
 ---
 
