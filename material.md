@@ -12,11 +12,11 @@ Para você entender mais sobre a área de TI e a sua importância no mercado de 
 
 É _#opcional_, mas vale a pena 😉
 
-- [O futuro do seu emprego](https://youtu.be/qVGxWi6XDAI)
-- [A dimensão do tempo para iniciantes em programação](https://youtu.be/Qb5b8ZE9tIY)
-- [3 técnicas para aprender a programar qualquer coisa](https://youtu.be/ZtMzB5CoekE)
-- [Conhecimentos básicos para iniciantes na programação](https://youtu.be/sx4hAHhO9CY)
-- [Transição de carreira para a área de Testes de Software](https://youtu.be/pEcMHwMnK2E)
+- [O futuro do seu emprego](https://youtu.be/qVGxWi6XDAI)✔
+- [A dimensão do tempo para iniciantes em programação](https://youtu.be/Qb5b8ZE9tIY)✔
+- [3 técnicas para aprender a programar qualquer coisa](https://youtu.be/ZtMzB5CoekE)✔
+- [Conhecimentos básicos para iniciantes na programação](https://youtu.be/sx4hAHhO9CY)✔
+- [Transição de carreira para a área de Testes de Software](https://youtu.be/pEcMHwMnK2E) ## **Parei Aqui**❗
 - [Carreira em Qualidade de Software](https://youtu.be/l4qL7GiJSnU)
 - [O que o testador ou QA faz?](https://youtu.be/v7dkVKxIBhM)
 - [QA: Especializar ou Generalizar](https://youtu.be/lkckVXuSHF8)
