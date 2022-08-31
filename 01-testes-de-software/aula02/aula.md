@@ -2,7 +2,7 @@
 
 Assista aos vídeos:
 
-  1. [Planejamento de Testes](https://youtu.be/XY-oElwC9VY)  **Parei Aqui**❗
+  1. [Planejamento de Testes](https://youtu.be/XY-oElwC9VY)  **Parei Aqui**❗ Tempo 2:45
   2. [Análise e Modelagem de Testes](https://youtu.be/BiU-m3ie-5A)
 
 > É **#fundamental** que você assista aos vídeos.
