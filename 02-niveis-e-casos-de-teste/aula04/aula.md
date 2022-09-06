@@ -15,6 +15,12 @@ Elabore cenários simulando testes na funcionalidade de login do Google (exemplo
 
 ![Login](../../assets/login.png)
 
+
+
+![image](https://user-images.githubusercontent.com/110126661/188731866-d2d5aa5d-db53-42c1-9f8e-799558c6811f.png)
+
+
+
 ##### Considerações:
 
 - Pense em fluxos principais e fluxos alternativos;
