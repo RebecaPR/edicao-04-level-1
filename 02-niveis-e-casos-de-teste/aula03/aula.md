@@ -13,7 +13,7 @@ Assista aos vídeos:
 #### _Material complementar:_
 * [Testes Frontend](https://youtu.be/giAee-VHR10)✔
 * [Testes Back end](https://youtu.be/LOtLlwkf5-Q)✔
-* [Curso testando APIs do zero com Postman](https://www.youtube.com/playlist?list=PLEqTHftpM91OzKYUkpaEuByhSpJYc90Hs)
+* [Curso testando APIs do zero com Postman](https://www.youtube.com/playlist?list=PLEqTHftpM91OzKYUkpaEuByhSpJYc90Hs)✔
 
 ---
 
