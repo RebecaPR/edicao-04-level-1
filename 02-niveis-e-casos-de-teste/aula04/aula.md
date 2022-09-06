@@ -22,10 +22,13 @@ Elabore cenários simulando testes na funcionalidade de login do Google (exemplo
 
 **Cenário: Acessar o sistema com um usuário válido**
 
-**Dado que consegui acessar aplicação com sucesso
-E fui direcionada para realizar o login
-Quando preencho meus dados de acesso corretamente
-Então sou redirecionado para a aplicação**
+**Dado** que consegui acessar aplicação com sucesso
+
+**E** fui direcionada para realizar o login
+
+**Quando** preencho meus dados de acesso corretamente
+
+**Então** sou redirecionado para a aplicação
 
 ##### Considerações:
 
