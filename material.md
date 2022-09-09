@@ -46,7 +46,7 @@ Nosso conteúdo principal está segmentado em 6 módulos. Cada módulo possui a 
 
 ...
 
-## Módulo 1 - Testes de Software _`#fundamental`_
+## Módulo 1 - Testes de Software _`#fundamental`_ ✔
 
 Teste? O que é isso? 🤷
 
@@ -58,7 +58,7 @@ Aprenda aqui um pouco mais sobre como esta atividade funciona.
 
 ...
 
-## Módulo 2 - Níveis de Teste _`#fundamental`_
+## Módulo 2 - Níveis de Teste _`#fundamental`_✔
 
 Níveis? Não é só a tela? 🤷 
 
