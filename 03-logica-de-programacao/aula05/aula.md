@@ -21,6 +21,10 @@ Os operadores podem ser divididos da seguinte forma:
 
 4) Faça a representação da fórmula de média aritmética, considerando um conjunto de elementos com `5` elementos nomeados como `item1`, `item2`, `item3`, `item4` e `item5`;
 
+
+![exercicio2](https://user-images.githubusercontent.com/110126661/189503644-d92b87ac-9adf-403b-be3a-5408da7fb8b9.PNG)
+
+
 5) O lucro bruto de uma empresa é representado pela receita líquida de vendas menos o custo dos produtos vendidos. A margem bruta de uma empresa é calculada pela divisão do lucro bruto pela receita líquida de vendas. Faça a representação da fórmula da margem bruta, multiplicando o resultado final por `100` para obter o valor percentual;
 
 6) Usando qualquer ferramenta de codificação, crie um algoritmo seguindo os passos abaixo para encontrar o valor do saldo ao final do processo _(atente-se para utilizar `.` como separador decimal)_:
