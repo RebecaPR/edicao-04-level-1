@@ -2,7 +2,7 @@
 
 Assista ao vídeo:
 
-  1. [Hello World](https://www.youtube.com/watch?v=rktt2vRzA1c)
+  1. [Hello World](https://www.youtube.com/watch?v=rktt2vRzA1c)✔
 
 > É **#fundamental** que você assista ao vídeo e leia o material complementar.
 
