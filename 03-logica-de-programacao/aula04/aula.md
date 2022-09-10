@@ -4,7 +4,7 @@ Assista aos vídeos:
 * Parte **teórica**:
   * _Este vídeo contém uma explicação teórica sobre o que são variáveis em qualquer linguagem de programação._
 
-  1. [Variáveis - Parte Teórica](https://www.youtube.com/watch?v=-ny7Kqm0V68)
+  1. [Variáveis - Parte Teórica](https://www.youtube.com/watch?v=-ny7Kqm0V68)✔
 
 * Parte **prática**:
   * _Este vídeo demonstra na prática como trabalhar com variáveis em Javascript. Mas é importante ficar atento a alguns detalhes do vídeo:_
@@ -12,13 +12,13 @@ Assista aos vídeos:
     * Tudo o que é mostrado no arquivo `scripts.js` pode ser feito no Repl ou no próprio navegador. Nestes casos, você não precisa se preocupar com o arquivo `home.html` que é apresentado no vídeo;
     * Embora o vídeo mostre a criação de variáveis com o prefixo `let`, isto não é muito importante para o aprendizado neste momento. Você pode criar variáveis digitando diretamente o nome da variável e seu valor. Ex.: `empresa = "CWI"`
     
-  2. [Variáveis na prática](https://www.youtube.com/watch?v=Qxz5TKqYkCg)
+  2. [Variáveis na prática](https://www.youtube.com/watch?v=Qxz5TKqYkCg)✔
 
 > É **#fundamental** que você assista aos vídeos e leia o material complementar. É **#opcional** _(embora bem interessante)_ que você faça o exercício.
 
 ---
 
-#### _Material complementar:_
+#### _Material complementar:_✔
 
 _Importante:_
 
@@ -65,6 +65,11 @@ apresentacao = "Meu nome é " + nomeCompleto + " (sou conhecido[a] como " + apel
 ```
 
 _Dica: você deve criar as demais variáveis `antes` de criar a variável `apresentacao`._
+
+![exercicio](https://user-images.githubusercontent.com/110126661/189502411-5f0d8d36-41f9-45dd-bd80-a0cedecf2604.PNG)
+
+
+
 
 _**Após** fazer o exercício, dá uma conferida no [nosso exemplo](resolucao.md) também._ 
 
