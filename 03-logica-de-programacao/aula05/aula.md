@@ -36,6 +36,9 @@ Os operadores podem ser divididos da seguinte forma:
    * Você decide antecipar o pagamento de uma dívida usando metade do seu saldo
    * Qual o valor do seu saldo? 🤔
 
+![exe1](https://user-images.githubusercontent.com/110126661/189724229-1e2a6dc3-84a3-4466-ac31-61f35c3979a5.PNG)
+
+
 _**Após** ter feito os exercícios, você pode dar uma conferida em como [nós criamos as nossas variáveis](resolucao.md)._
 
 ---
