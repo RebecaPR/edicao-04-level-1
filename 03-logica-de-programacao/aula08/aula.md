@@ -39,6 +39,10 @@ nomesComuns = ["Miguel", "Laura", "Lucas", "Beatriz", "Guilherme", "Maria", "Gab
 "Leonardo", "Isadora", "Noah", "Lorena", "Nícolas", "Lívia", "Daniel", "Manuela", "Thiago", "Vitória"]
 ```
 
+![image](https://user-images.githubusercontent.com/110126661/189990749-cd8161dc-6aa4-445c-8b94-5debd8d432d0.png)
+
+
+
 _**Após** ter feito os exercícios, dá uma conferida em [como nós resolvemos](resolucao.md) eles._
 
 ---
