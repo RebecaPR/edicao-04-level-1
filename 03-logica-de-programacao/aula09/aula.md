@@ -2,11 +2,11 @@
 
 Leia o artigo: 
 
-  1. [JavaScript: Inserindo comentários](https://www.linhadecomando.com/javascript/javascript-inserindo-comentarios)
+  1. [JavaScript: Inserindo comentários](https://www.linhadecomando.com/javascript/javascript-inserindo-comentarios)✔
 
 Assista ao vídeo:
 
-  1. [Funções, procedimentos e comentários](https://www.youtube.com/watch?v=2g2bfD6q5NQ)
+  1. [Funções, procedimentos e comentários](https://www.youtube.com/watch?v=2g2bfD6q5NQ)✔
 
 > É **#fundamental** que você assista ao vídeo e leia o artigo. É **#opcional** _(embora bem importante)_ que você leia o material complementar e faça os exercícios.
 
