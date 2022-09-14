@@ -68,7 +68,7 @@ Aqui você verá como funcionam as aplicações e como você pode analisá-las p
 
 ...
 
-## Módulo 3 - Algoritmos e lógica de programação _`#fundamental`_
+## Módulo 3 - Algoritmos e lógica de programação _`#fundamental`_✔
 
 Algoritmos? 😳 Condicionais? 😨 Arrays? 😱
 
