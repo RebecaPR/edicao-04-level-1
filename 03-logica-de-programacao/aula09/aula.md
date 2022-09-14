@@ -14,7 +14,7 @@ Assista ao vídeo:
 
 #### Leitura complementar:_
 
-* [A importância de uma boa documentação
+* [A importância de uma boa documentação ✔
 ](http://www.linhadecodigo.com.br/artigo/2918/a-importancia-de-uma-boa-documentacao.aspx)
 
 ---
