@@ -9,7 +9,7 @@ Os vídeos não são necessariamente dos mesmos canais, portanto, procure assist
 - [Aula #05 - Comandos git log, git show, git diff e git reset](aula05/aula.md)✔
 - [Aula #06 - Configuração de um repositório remoto no GitHub](aula06/aula.md)✔
 - [Aula #07 - Enviando alterações para o repositório remoto com git push](aula07/aula.md)✔
-- [Aula #08 - Branches](aula08/aula.md)
+- [Aula #08 - Branches](aula08/aula.md)✔
 - [Aula #09 - Merge, Rebase](aula09/aula.md)
 - [Aula #10 - Conteúdo extra](aula10/aula.md)
 
