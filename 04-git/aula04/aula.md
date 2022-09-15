@@ -2,7 +2,7 @@
 
 Assista aos vídeos:
 
-  1. [Ciclo de vida dos arquivos](https://www.youtube.com/watch?v=MOuN_cYcsJ4)
+  1. [Ciclo de vida dos arquivos](https://www.youtube.com/watch?v=MOuN_cYcsJ4)✔
 
 ---
 
