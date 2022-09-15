@@ -2,11 +2,11 @@
 
 Assista aos vídeos:
 
-  1. [Enviando mudanças para o remoto](https://www.youtube.com/watch?v=3dvMo-rXTHE)
+  1. [Enviando mudanças para o remoto](https://www.youtube.com/watch?v=3dvMo-rXTHE)✔
 
-  1. [Clonando um repositório](https://www.youtube.com/watch?v=WEPB5pDSEIg)
+  1. [Clonando um repositório](https://www.youtube.com/watch?v=WEPB5pDSEIg)✔
 
-  1. [Fazendo fork de um projeto](https://www.youtube.com/watch?v=q-QTbNu8Ybc)    
+  1. [Fazendo fork de um projeto](https://www.youtube.com/watch?v=q-QTbNu8Ybc) ✔   
 
 ---
 
