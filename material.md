@@ -78,7 +78,7 @@ Aqui você vai ver tudo isso e um pouco mais 😆
 
 ...
 
-## Módulo 4 - Git _`#fundamental`_
+## Módulo 4 - Git _`#fundamental`_✔
 
 **Git** é um sistema de controle de versão de arquivos. Através deles podemos desenvolver projetos onde todos do time podem contribuir ao mesmo tempo, editando e criando novos arquivos sem o risco de suas alterações serem sobrescritas. Esta é uma ferramenta básica utilizada no dia a dia do desenvolvimento.
 
