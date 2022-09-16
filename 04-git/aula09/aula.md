@@ -2,11 +2,11 @@
 
 Assista aos vídeos:
 
-  1. [Entendendo o Merge](https://www.youtube.com/watch?v=R_kxAnuyQss)
+  1. [Entendendo o Merge](https://www.youtube.com/watch?v=R_kxAnuyQss)✔
 
-  1. [Entendendo o Rebase](https://www.youtube.com/watch?v=lXnRC_W2PBk)
+  1. [Entendendo o Rebase](https://www.youtube.com/watch?v=lXnRC_W2PBk)✔
 
-  1. [Merge e Rebase na prática](https://www.youtube.com/watch?v=lmbwADzYJew)    
+  1. [Merge e Rebase na prática](https://www.youtube.com/watch?v=lmbwADzYJew)✔    
 
 ---
 
