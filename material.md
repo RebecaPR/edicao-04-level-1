@@ -86,7 +86,7 @@ Aqui você vai ver tudo isso e um pouco mais 😆
 
 ...
 
-## Módulo 5 - Automação de Testes _`#fundamental`_
+## Módulo 5 - Automação de Testes _`#fundamental`_✔
 
 Você acha que os conhecimentos em lógica e linguagens de programação podem ser aplicados somente a criação de softwares? 😱
 
